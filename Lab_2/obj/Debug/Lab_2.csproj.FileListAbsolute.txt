@@ -1,0 +1,7 @@
+C:\Users\38099\source\repos\SMTRPZ_labs\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\38099\source\repos\SMTRPZ_labs\Lab_2\bin\Debug\Lab_2.exe
+C:\Users\38099\source\repos\SMTRPZ_labs\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\38099\source\repos\SMTRPZ_labs\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\38099\source\repos\SMTRPZ_labs\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\38099\source\repos\SMTRPZ_labs\Lab_2\obj\Debug\Lab_2.pdb
+C:\Users\38099\source\repos\SMTRPZ_labs\Lab_2\obj\Debug\Lab_2.csprojAssemblyReference.cache

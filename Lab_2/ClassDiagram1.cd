@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab_2.Suitcase_rooms.RoomsManagement">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAQAAAACAAAAAAAAAAAAAAAIQAAAJEAQAAAA=</HashCode>
+      <FileName>Management\RoomsManagement.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="mainRoom" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Lab_2.Suitcase_rooms.Room">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAIADAAAAAAAAAAAABAAgAAAAAAAQAAAIAAQAAAA=</HashCode>
+      <FileName>Suitcase_rooms\Room.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="innerPlaces" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Lab_2.Place">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIgIAABAAAgAAAAAAAABAQgAACAAAAQAAAIAAQABAA=</HashCode>
+      <FileName>Suitcase_rooms\Place.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_2.Suitcase_rooms.Forest">
+    <Position X="4" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgIAAAAAAgAAAAAAAAAAAAAACAIAAQAAAIAAQAAAA=</HashCode>
+      <FileName>Suitcase_rooms\Forest.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="creatures" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Lab_2.Suitcase_rooms.Pool">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgIAAAAAAgAAAAAAAAAEAAAACAAAAQAAAIAAQAAAA=</HashCode>
+      <FileName>Suitcase_rooms\Pool.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="kelpies" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Lab_2.Suitcase_rooms.Field">
+    <Position X="2.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgIAAAAAQgAAAAAAAAAAAAAACAAAAQAAAIAAQAAAA=</HashCode>
+      <FileName>Suitcase_rooms\Field.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="occamies" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Lab_2.Creatures.Creature">
+    <Position X="8" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Creatures\Creature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_2.Creatures.Demiguise">
+    <Position X="6" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAg=</HashCode>
+      <FileName>Creatures\Demiguise.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_2.Creatures.Kelpie">
+    <Position X="7.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAg=</HashCode>
+      <FileName>Creatures\Kelpie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_2.Creatures.Occamy">
+    <Position X="9.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAg=</HashCode>
+      <FileName>Creatures\Occamy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_2.Creatures.Bowtruckle">
+    <Position X="11.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAg=</HashCode>
+      <FileName>Creatures\Bowtruckle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
